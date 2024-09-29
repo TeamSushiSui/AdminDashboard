@@ -1,0 +1,9 @@
+{
+    "__PACKAGE_ID": "0x55030a3297e70b52dd6bc3f6e8d79bec6b241bcd10f00dcf86a107e0ede3fd4b",
+    "__EDUVERSEX_DB": "0x9781d1f30456d3d31b096d3484bdddb731b219fa158d2d3069c449de98c56e5b",
+
+    "PACKAGE_ID": "0xde914bfd4afe988edd5c4f60a8e6ccb5be5e1a8c745cd5a2b2ebd01629c4ba4b",
+    "EDUVERSEX_DB": "0x8a3eee401aff6f0117c1783eb45672f60748c5df15de0fb702efa9bfd1ca0f80",
+    "modules": "eduversex_database"
+
+}
